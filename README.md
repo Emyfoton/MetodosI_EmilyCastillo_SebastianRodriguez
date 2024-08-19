@@ -1,2 +1,1 @@
-# -Semy-
-MetodosI_EmilyCastillo_SebastianRodriguez
+# MetodosI_EmilyCastillo_SebastianRodriguez
